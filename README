@@ -1,3 +1,7 @@
+NOTE: The SLiM display manager is no longer maintained. The old website (http://slim.berlios.de) hosted a copy of the Git repository, but this site is now gone. The SLiM display manager is a great piece of software and a great reference for those of you who want to write your own display managers, so I'm uploading my local copy of the code here as a mirror. The last commit to the project was on October 3rd, 2013.
+
+--------------------------------------------------------------------------------
+
 README file for SLiM
 
 Nobuhiro Iwamatsu <iwamatsu@nigauri.org>
